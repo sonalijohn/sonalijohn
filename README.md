@@ -3,7 +3,7 @@
 Drupal & PHP Full Stack Developer
 
 ## Skills
-- Drupal 7/8/9/10
+- Drupal 7/8/9/10/11
 - PHP
 - MySQL
 - JavaScript
