@@ -2,64 +2,65 @@
 
 ### Drupal & PHP Full Stack Developer — Open to New Opportunities
 
-Passionate about building scalable, maintainable Drupal solutions — from custom modules and REST APIs to headless CMS architectures. I love clean code, well-structured systems, and solving real problems with the right tools.
+2+ years delivering enterprise Drupal solutions for international clients — 10+ custom modules shipped, 3 full Drupal 7/8-to-10/11 migrations completed, Jenkins CI/CD pipelines maintained at PanApps Inc.
 
 📍 Kerala, India &nbsp;|&nbsp; 📧 sonalijohn9@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sonali-john-a707a4117/)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Core Stack
 
 | Area | Technologies |
 |---|---|
 | **CMS** | Drupal 7, 8, 9, 10, 11 |
-| **Backend** | PHP, MySQL |
-| **Frontend** | JavaScript, HTML/CSS |
+| **Backend** | PHP 8, MySQL |
+| **Frontend** | JavaScript, Twig, Bootstrap, HTML/CSS |
 | **APIs** | REST API, JSON:API |
-| **DevOps** | CI/CD, Git, GitHub Actions |
-| **Tools** | Drush, Composer, Docker |
+| **DevOps** | Jenkins, CI/CD, Git, GitHub Actions, Linux |
+| **Tools** | Drush, Composer, Docker, DDEV, Apache/Nginx |
+| **Testing** | PHPUnit |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🗓️ [Drupal Event Manager](https://github.com/sonalijohn/drupal-event-manager)
-> Custom Drupal 10 module for managing events end-to-end.
+> Custom Drupal 10/11 module — built from scratch
 
-- Custom **Event content type** with admin configuration
-- **REST API endpoint** for event data
-- Event listing page
-- Easy setup via Drush — `drush en drupal_event_manager`
+- Custom **Event content type** with date, location, registration URL fields
+- **Card-based UI** with Twig template and CSS
+- **Full REST API** — GET, POST, DELETE at `/api/events`
+- Clean install/uninstall hooks, Drush-enabled
 
-**Tech:** Drupal 10 · PHP · MySQL · REST API
-
----
-
-### 📝 Headless Drupal Blog
-> Decoupled Drupal setup serving content via JSON:API to a separate frontend.
-
-**Tech:** Drupal · JSON:API · Headless Architecture
+**Tech:** Drupal 11 · PHP · MySQL · REST API · Twig · DDEV
 
 ---
 
-### ⚙️ PHP Task Management API
-> RESTful API built in PHP for task tracking with full CRUD support.
+### 📝 Headless Drupal Blog *(coming soon)*
+> Decoupled Drupal serving content via JSON:API to a React frontend.
 
-**Tech:** PHP · MySQL · REST API
+**Tech:** Drupal · JSON:API · React · Headless Architecture
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalijohn&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalijohn&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 🎓 Background
+
+- 👩‍🏫 Former **Assistant Professor in Computer Science** — brings strong documentation and communication skills
+- 📄 **2 SCOPUS-indexed research publications**
+- 🌍 Works fully remote, experienced with async distributed teams
 
 ---
 
 ## 📫 Let's Connect
 
-I'm currently **open to new Drupal / PHP developer roles** — freelance or full-time.
+Available for **Drupal/PHP roles** with global MNCs and agencies — freelance or full-time.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sonali-john-a707a4117/)
 - 📧 sonalijohn9@gmail.com
