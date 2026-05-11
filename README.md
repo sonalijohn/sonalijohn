@@ -44,6 +44,16 @@
 
 **Tech:** Drupal 11 · JSON:API · React · PHP · DDEV
 
+### ⚙️ [PHP Task Manager API](https://github.com/sonalijohn/php-task-api)
+> Pure PHP REST API — no frameworks, built from scratch
+
+- Full CRUD — GET, POST, PUT, DELETE at `/api/tasks`
+- Clean OOP with PDO database layer
+- Task priority and status management
+- No framework dependency — raw PHP 8.2
+
+**Tech:** PHP 8.2 · MySQL · PDO · REST API · DDEV
+
 ## 📊 GitHub Stats
 
 ![Sonali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalijohn&show_icons=true&theme=default&hide_border=true&count_private=true)
