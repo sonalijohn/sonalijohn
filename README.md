@@ -34,14 +34,15 @@
 
 **Tech:** Drupal 11 · PHP · MySQL · REST API · Twig · DDEV
 
----
+### 📝 [Headless Drupal Blog](https://github.com/sonalijohn/headless-drupal-blog)
+> Decoupled Drupal 11 — JSON:API backend with React frontend
 
-### 📝 Headless Drupal Blog *(coming soon)*
-> Decoupled Drupal serving content via JSON:API to a React frontend.
+- **JSON:API** serving blog posts from Drupal 11
+- **React frontend** fetching live data — no page reload
+- Card-based UI with single post view
+- Custom `headless_blog` module for content type setup
 
-**Tech:** Drupal · JSON:API · React · Headless Architecture
-
----
+**Tech:** Drupal 11 · JSON:API · React · PHP · DDEV
 
 ## 📊 GitHub Stats
 
